@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kkloknine
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C/C++/Java/JS
+- 🌱 I’m currently learning C/C++/Java
 - 📫 How to reach me: @kkloknine in any social media
 
 <!---
